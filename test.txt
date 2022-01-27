@@ -1,2 +1,2 @@
 hello, testing123
-simulate a conflict
+edited in the feature branch
